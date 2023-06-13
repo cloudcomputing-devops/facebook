@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 hiHI THIS IS NANI  IN MASTER 
 
 BRANCH
 
 hii this sharath
+=======
+hi this sharath
+>>>>>>> bb3c90a ( first commit)
 =======
 hi this sharath
 >>>>>>> bb3c90a ( first commit)

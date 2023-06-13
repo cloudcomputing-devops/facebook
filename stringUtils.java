@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi this shrath
+=======
+ hi this shrath
+>>>>>>> bb3c90a ( first commit)
 =======
  hi this shrath
 >>>>>>> bb3c90a ( first commit)
