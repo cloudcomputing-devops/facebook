@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hi this shrath
+=======
+ hi this shrath
+>>>>>>> bb3c90a ( first commit)
   
  were it contains string utils.java files
 
