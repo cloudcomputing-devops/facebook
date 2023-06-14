@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> development
  
 hiHI THIS IS NANI  IN MASTER 
 
@@ -8,6 +12,12 @@ hii this sharath
 =======
 hi this sharath
 >>>>>>> bb3c90a ( first commit)
+<<<<<<< HEAD
+=======
+=======
+hi this sharath
+>>>>>>> bb3c90a ( first commit)
+>>>>>>> development
 
 it contains java files
  
