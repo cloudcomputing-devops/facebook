@@ -4,6 +4,7 @@ hi this shrath
  hi this shrath
 
  hi this shrath
+<<<<<<< HEAD
 
 hi this shrat
  hi this shrath
@@ -11,6 +12,8 @@ hi this shrat
  hi this shrath
 
 hi this shrath 
+=======
+>>>>>>> 8edb55d (updated)
   
  were it contains string utils.java files
 
