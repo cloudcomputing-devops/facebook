@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> development
+
+
 hi this shrath
-=======
  hi this shrath
->>>>>>> bb3c90a ( first commit)
-<<<<<<< HEAD
-=======
-=======
+
  hi this shrath
->>>>>>> bb3c90a ( first commit)
->>>>>>> development
   
  were it contains string utils.java files
 
