@@ -1,13 +1,13 @@
- HEAD
+ 
 IAM IN THE MASTER BRANCH
 
  bb3c90a 
 it contains shell scripting
 
 
-HEAD
+
  i need to practise the shell scripting topic HEAD
-HEAD
+
  6d8def7 
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii    it is very important
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
@@ -18,6 +18,5 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
     it is very important
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
- HEAD
  
 
