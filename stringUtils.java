@@ -1,18 +1,16 @@
 
-<<<<<<< HEAD
 
 hi this shrath
  hi this shrath
 
  hi this shrath
-=======
+
 hi this shrat
  hi this shrath
 
  hi this shrath
 
-hi this shrath
->>>>>>> development
+hi this shrath 
   
  were it contains string utils.java files
 
