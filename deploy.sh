@@ -11,5 +11,10 @@ it contains shell scripting
 
  i need to practise the shell scripting topic
 
+<<<<<<< Updated upstream
     it is very important
 
+=======
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii    it is very important
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+>>>>>>> Stashed changes
